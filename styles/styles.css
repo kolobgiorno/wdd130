@@ -1,7 +1,7 @@
-:root {
-    padd 
-
-}
+@import "../week02//styles/box-model.css";
+/* :root {
+    
+} */
 nav {
     background-color: darkblue;
     padding: 10px;
